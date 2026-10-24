@@ -1,0 +1,2 @@
+# Extra pip packages beyond the organizers' base image, with pinned versions.
+# None needed: TinyReefNet only uses torch, numpy, pillow and pyyaml, which the base image already has.
